@@ -1,6 +1,4 @@
-# AV-ECHO
-
-**Representation Steering for Cross-Modal Hallucination Mitigation in Audio-Visual Large Language Models**
+Cross-Modal-Hallucination-Steering
 
 This repository provides a minimal reference implementation of AV-ECHO, a training-free representation steering method for mitigating cross-modal hallucination in audio-visual large language models.
 
